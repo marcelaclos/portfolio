@@ -338,7 +338,7 @@ footer{background:url(img/teclado.jpg);}
   display: flex;
   margin: auto;
   justify-content: space-around;
-  width: 100%;
+  width: 20%;
   
 }
 .fab{
@@ -350,6 +350,7 @@ footer{background:url(img/teclado.jpg);}
 
 footer p{
   margin-top:var(--espacios);
+  color: beige;
 }
 
 @media screen and (max-width: 700px){
@@ -413,17 +414,14 @@ footer p{
   .cont-work{
     width: 85%;
   }
-
+/* 
   .marca-logo{
     width: 80%;
     color: rgb(89, 125, 231);
     font-family: 'Pacifico', sans-serif;
     font-size: x-large;
 
-  }
+  } */
 
-  .iconos{
-    margin: auto;
-    
-  }
+  
 }

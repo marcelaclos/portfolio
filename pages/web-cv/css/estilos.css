@@ -416,6 +416,7 @@ footer{
     .content-foo{
         margin-bottom: 20px;
         text-align: center;
+        align-items: center;
     }
 
     .content-foo h4{
